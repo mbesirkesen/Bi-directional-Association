@@ -1,0 +1,14 @@
+C:\Users\Muhammed\source\repos\Bi-directional Association 2\Bi-directional Association 2\obj\Debug\net8.0\Bi-directional Association 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\Bi-directional Association 2\Bi-directional Association 2\obj\Debug\net8.0\Bi-directional Association 2.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\Bi-directional Association 2\Bi-directional Association 2\obj\Debug\net8.0\Bi-directional Association 2.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\Bi-directional Association 2\Bi-directional Association 2\obj\Debug\net8.0\Bi-directional Association 2.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\Bi-directional Association 2\Bi-directional Association 2\bin\Debug\net8.0\Bi-directional Association 2.exe
+C:\Users\Muhammed\source\repos\Bi-directional Association 2\Bi-directional Association 2\bin\Debug\net8.0\Bi-directional Association 2.deps.json
+C:\Users\Muhammed\source\repos\Bi-directional Association 2\Bi-directional Association 2\bin\Debug\net8.0\Bi-directional Association 2.runtimeconfig.json
+C:\Users\Muhammed\source\repos\Bi-directional Association 2\Bi-directional Association 2\bin\Debug\net8.0\Bi-directional Association 2.dll
+C:\Users\Muhammed\source\repos\Bi-directional Association 2\Bi-directional Association 2\bin\Debug\net8.0\Bi-directional Association 2.pdb
+C:\Users\Muhammed\source\repos\Bi-directional Association 2\Bi-directional Association 2\obj\Debug\net8.0\Bi-directional Association 2.dll
+C:\Users\Muhammed\source\repos\Bi-directional Association 2\Bi-directional Association 2\obj\Debug\net8.0\refint\Bi-directional Association 2.dll
+C:\Users\Muhammed\source\repos\Bi-directional Association 2\Bi-directional Association 2\obj\Debug\net8.0\Bi-directional Association 2.pdb
+C:\Users\Muhammed\source\repos\Bi-directional Association 2\Bi-directional Association 2\obj\Debug\net8.0\Bi-directional Association 2.genruntimeconfig.cache
+C:\Users\Muhammed\source\repos\Bi-directional Association 2\Bi-directional Association 2\obj\Debug\net8.0\ref\Bi-directional Association 2.dll
